@@ -1,5 +1,6 @@
 ## 20210602
 * rebuild
+* change build host
 
 ## 20210303
 * 日常更新
