@@ -1,5 +1,5 @@
 ## 20210602
-* rebuild
+* add mt76* drivers
 * change build host
 
 ## 20210303
