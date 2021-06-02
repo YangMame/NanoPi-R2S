@@ -1,6 +1,6 @@
 ## 20210602
 * add mt76* drivers
-* change build host
+* use self-hosted
 
 ## 20210303
 * 日常更新
